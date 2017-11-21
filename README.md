@@ -1,4 +1,4 @@
-# course management systrem
+# course management system
 ## 项目名称：学生选课系统 ##
 ## 项目时间：2013.9.6 #
 ## 项目描述： #
